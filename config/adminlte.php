@@ -322,7 +322,7 @@ return [
         ],
         [
             'text' => 'Dashboard',
-            'url' => 'admin/pages',
+            'url' => 'dashboard',
             'icon' => 'far fa-fw fa-file',
         ],
         [
